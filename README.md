@@ -17,3 +17,6 @@
 * Spring, Mariadb, MyBatis 연동 및 데이터 조회
   * 구동 결과
   ![과제1 결과](https://user-images.githubusercontent.com/60144904/143015544-c78f7e2e-39e5-4894-85c6-13993573429a.PNG)
+
+## 2주차 API가이드 문서
+[API 가이드 문서.docx](https://github.com/sangwookShin/Comento/files/7626962/API.docx)
